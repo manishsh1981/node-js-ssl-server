@@ -1,4 +1,4 @@
- nodejs-ssl-server
+<b>nodejs-ssl-server</b>
 
 How to deploy nodejs app to AWS EC2 Ubuntu 22 Server with free SSL and Nginx reverse proxy
 
@@ -236,18 +236,14 @@ To test the renewal process, you can do a dry run with certbot:
 sudo certbot renew --dry-run
 ```
 
-### 11. Visit your website HTTPS://<your website>
-  Enjoy Your free Nodejs server with Free SSL :)
+### 11. Enjoy Your free Nodejs server with Free SSL :)
   
   
 ## Support 🙏😃
   
- If you Like the tutorial and you want to support my channel so I will keep releasing amzing content that will turn you to a desirable Developer with Amazing Cloud skills... I will realy appricite if you:
  
- 1. Subscribe to My youtube channel and leave a comment: http://www.youtube.com/@ScaleUpSaaS?sub_confirmation=1
- 2. Buy me A coffee ❤️ : https://www.buymeacoffee.com/scaleupsaas
 
 Thanks for your support :)
 
-<a href="https://www.buymeacoffee.com/scaleupsaas"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=scaleupsaas&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 
